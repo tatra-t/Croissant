@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+
+}
+li {
+    margin: 10px;
+    display: inline;
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+img {
+    border-radius: 15px;
+}
+p {
+    margin: 10px 50px;
+}
